@@ -1,11 +1,3 @@
-! Title: Bypass Paywalls Clean filter
-! Expires: 1 day (update frequency)
-! Description: Filters for news sites (supports less sites than the extension/add-on)
-! Homepage: https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters
-! License: MIT; https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/blob/main/LICENSE
-! Last modified: 
-! Version: 3.6.2.5
-
 ! General
 
 ||amplitude.com^$xmlhttprequest,third-party
